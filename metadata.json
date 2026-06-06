@@ -1,0 +1,8 @@
+{
+  "name": "Matrix Calculator",
+  "description": "A stylish, responsive 3D neon calculator with a yellow, black, and white design featuring tactile keypress offsets and calculation logs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
